@@ -1,4 +1,4 @@
-i#include <stdio.h>
+#include <stdio.h>
 /**
  * Description: main - print alphabet
  * Return: 0 if success
